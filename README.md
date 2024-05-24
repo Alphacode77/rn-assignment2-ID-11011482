@@ -9,3 +9,7 @@ The Task was to use Expo CLI to build a new React Native blank template project 
 * Modify the Text element so that "My name is YourName" appears.
 * Make the text's font size larger to 24.
 * Put "YourName" in bold type; for example, if your name is John, it should read "My name is John".
+
+## SCREENSHOT
+
+![Screenshot of the app](./rn-assignment2-ID-11011482/assets/Screenshot%202024-05-24%20145026.png "App Screenshot")
